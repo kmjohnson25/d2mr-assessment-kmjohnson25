@@ -1,5 +1,3 @@
-# TEST for pulling from Github
-
 # d2mr-assessment
 
 This is a centralized directory for D2MR mini-project assessment materials. The purpose of this repository is to provide a single location for all mini-projects, which will allow you to easily access and complete them and your instructors to efficiently grade them.
