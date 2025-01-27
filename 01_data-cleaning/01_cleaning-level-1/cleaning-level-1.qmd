@@ -205,7 +205,7 @@ clean.mtcars<- clean.mtcars %>%
 all.equal(clean.mtcars, goal.mtcars)
 render_diff(diff_data(clean.mtcars, goal.mtcars))
 
-# Inspect the goal.mtcars dataset and compare to clean,mtcars
+# Inspect the goal.mtcars dataset and compare to clean.mtcars
 head(clean.mtcars)
 head(goal.mtcars)
 
