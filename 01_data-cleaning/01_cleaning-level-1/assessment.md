@@ -41,10 +41,10 @@ Suggested standards for this **Cleaning Level 1** assessment are noted with an a
 ### R programming
 
 5.  find, install, require, and load R packages
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 6.  parse and define functions and arguments
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 7.  parse and write conditional statements
     -   [ ] Assessment attempt
@@ -53,20 +53,18 @@ Suggested standards for this **Cleaning Level 1** assessment are noted with an a
 ### Tidyverse
 
 9.  **use `readr` functions to read in and write out data**
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 10. use `dplyr` and `tidyr` functions to transform data
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 11. use `stringr` functions to work with string variables
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 12. use `forcats` functions to work with factor variables
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
-13. 
-    -   [ ] Assessment attempt
-    -   [ ] Standard met
+
 
 ### Data visualization with ggplot2
 
@@ -86,7 +84,7 @@ Suggested standards for this **Cleaning Level 1** assessment are noted with an a
 ### Data analysis
 
 17. perform simple descriptive analyses for numeric and factor data (e.g., mean, standard deviation, frequency tables)
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 18. perform simple hypothesis testing analyses for numeric and factor data (e.g., t-tests, chi-square, linear regression)
     -   [ ] Assessment attempt
@@ -117,12 +115,12 @@ Suggested standards for this **Cleaning Level 1** assessment are noted with an a
     27. distributed throughout the manuscript
     28. chunk options
 
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 
 24. use code chunks to source .R scripts, load packages, set preferences, and read in data
 
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 
 25. render publication-quality, captioned tables, figures, and images in code chunks
@@ -138,7 +136,7 @@ Suggested standards for this **Cleaning Level 1** assessment are noted with an a
 ### R Markdown and quarto/papaja
 
 27. create and maintain a quarto document YAML header
-    -   [ ] Assessment attempt
+    -   [X] Assessment attempt
     -   [ ] Standard met
 28. use quarto R Markdown (e.g., headers, text style, lists, etc.) to compose an academic manuscript
     -   [ ] Assessment attempt
