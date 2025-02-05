@@ -96,7 +96,7 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [X] Objective attempt
         -   [X] Unique objective attempt
-        -   [ ] Objective met
+        -   [X] Objective met
         -   Grader comments:
 
 6.  Use arithmetic, comparison, and logical operators
@@ -106,8 +106,8 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [X] Objective attempt
         -   [X] Unique objective attempt
-        -   [ ] Objective met
-        -   Grader comments:
+        -   [X] Objective met
+        -   Grader comments: 
 
 7.  Parse and define functions and arguments
 
@@ -118,7 +118,12 @@ Below each learning objective is a list of general expectations for meeting that
         -   [X] Objective attempt
         -   [X] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: The script `cleaning-level-1.qmd` does not contain any functions defined in this way
+                ```
+                            function_name <- function(parameters){
+                    function body 
+                    }
+                ```
 
 8.  Parse and write conditional statements and/or loops
 
@@ -128,7 +133,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [X] Objective attempt
         -   [X] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: The script `cleaning-level-1.qmd` does not demonstrate the use of conditional/loop functions.
 
 ### Tidyverse
 
@@ -140,7 +145,8 @@ Below each learning objective is a list of general expectations for meeting that
         -   [X] Objective attempt
         -   [X] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: The script does not show the attempt to write out data in code chunks. Refer to "7. Write the cleaned dataset as a csv file called `clean-mtcars.csv`, then read the csv back in maintaining the correct data types." in the file `cleaning-level-1.qmd`.
+
 
 10. Use `dplyr` and `tidyr` functions to transform data
 
@@ -150,7 +156,7 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [X] Objective attempt
         -   [X] Unique objective attempt
-        -   [ ] Objective met
+        -   [X] Objective met
         -   Grader comments:
 
 11. Use `stringr` functions to work with string variables
@@ -160,7 +166,7 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [X] Objective attempt
         -   [X] Unique objective attempt
-        -   [ ] Objective met
+        -   [X] Objective met
         -   Grader comments:
 
 12. Use `forcats` functions to work with factor variables
@@ -170,7 +176,7 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [X] Objective attempt
         -   [X] Unique objective attempt
-        -   [ ] Objective met
+        -   [x] Objective met
         -   Grader comments:
 
 ### Data visualization with ggplot2
@@ -460,18 +466,20 @@ My main takewaway was to commit and push to github frequently thoughout working 
 
 ## Grader feedback
 
--   Grader:
--   Date:
--   Points toward unique objectives (up to 20):
--   Additional points (up to 20):
--   TA provisional engagement points (up to 10):
+-   Grader: Mian
+-   Date: Feb 04, 2025
+-   Points toward unique objectives (up to 20): 5
+-   Additional points (up to 20): 8
+-   TA provisional engagement points (up to 10): 3
 -   Final approved engagement points (up to 10):
--   Total points (up to 50):
+-   Total points (up to 50): 16
 
 Engagement points are awarded for going above and beyond the expectations of the project and are not guaranteed on any given submission.. Demonstrating the assessed learning objectives earns you points in those categories, but engagement points are awarded for exceptional effort, creativity, or skill.
 
 TAs may recommend engagement points provisionally, but the instructor will make the final decision on engagement points.
 
 Additional comments: 
+
+Mian: Good job! I'm happy to see that you are utilizing the version control function of GitHub, which is one of the reasons why we have such an emphasis of GitHub in this course.
 
 
