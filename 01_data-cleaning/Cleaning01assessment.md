@@ -471,7 +471,7 @@ My main takewaway was to commit and push to github frequently thoughout working 
 -   Points toward unique objectives (up to 20): 5
 -   Additional points (up to 20): 8
 -   TA provisional engagement points (up to 10): 3
--   Final approved engagement points (up to 10):
+-   Final approved engagement points (up to 10): 3
 -   Total points (up to 50): 16
 
 Engagement points are awarded for going above and beyond the expectations of the project and are not guaranteed on any given submission.. Demonstrating the assessed learning objectives earns you points in those categories, but engagement points are awarded for exceptional effort, creativity, or skill.
@@ -482,4 +482,5 @@ Additional comments:
 
 Mian: Good job! I'm happy to see that you are utilizing the version control function of GitHub, which is one of the reasons why we have such an emphasis of GitHub in this course.
 
+ND: Nice work, Kristen! Small admin thing --  in the future please copy the assessment file into the folder for the mini-project you're working on (not the category). You should leave it named `assessment.md`, since there shouldn't be any ambiguity as long as its in the correct subdirectory.
 
